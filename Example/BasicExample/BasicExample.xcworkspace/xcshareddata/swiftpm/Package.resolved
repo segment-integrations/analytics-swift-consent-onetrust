@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "analytics-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/segmentio/analytics-swift",
+      "state" : {
+        "revision" : "efc111b5fccaebd1063ef0db6d206c252da387ec",
+        "version" : "1.4.8"
+      }
+    },
+    {
+      "identity" : "analytics-swift-consent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/segment-integrations/analytics-swift-consent.git",
+      "state" : {
+        "revision" : "d1f5f0f6fcdd7849640e9bfe997b9d0a3ace77f2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "otpublishersheadlesssdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zentrust/OTPublishersHeadlessSDK",
+      "state" : {
+        "revision" : "e318c893a790e6f58bd0c67e64d0ef204c482c31",
+        "version" : "202309.1.0"
+      }
+    },
+    {
+      "identity" : "otpublishersheadlesssdktvos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zentrust/OTPublishersHeadlessSDKtvOS",
+      "state" : {
+        "revision" : "13e371adfcce89dff5d1c22f1160d5c213a9ccdb",
+        "version" : "202309.1.0"
+      }
+    },
+    {
+      "identity" : "sovran-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/segmentio/Sovran-Swift.git",
+      "state" : {
+        "revision" : "64f3b5150c282a34af4578188dce2fd597e600e3",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}

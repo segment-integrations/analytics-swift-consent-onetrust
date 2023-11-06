@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/segmentio/analytics-swift",
+        "state": {
+          "branch": "bsneed/fixups",
+          "revision": "44d7054066ca5d55e8bde10762a109e042c93331",
+          "version": null
+        }
+      },
+      {
+        "package": "OTPublishersHeadlessSDK",
+        "repositoryURL": "https://github.com/Zentrust/OTPublishersHeadlessSDK",
+        "state": {
+          "branch": null,
+          "revision": "e318c893a790e6f58bd0c67e64d0ef204c482c31",
+          "version": "202309.1.0"
+        }
+      },
+      {
+        "package": "OTPublishersHeadlessSDKtvOS",
+        "repositoryURL": "https://github.com/Zentrust/OTPublishersHeadlessSDKtvOS",
+        "state": {
+          "branch": null,
+          "revision": "13e371adfcce89dff5d1c22f1160d5c213a9ccdb",
+          "version": "202309.1.0"
+        }
+      },
+      {
+        "package": "Sovran",
+        "repositoryURL": "https://github.com/segmentio/Sovran-Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "64f3b5150c282a34af4578188dce2fd597e600e3",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
