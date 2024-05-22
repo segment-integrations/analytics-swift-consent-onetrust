@@ -52,7 +52,7 @@ extension Analytics {
             // we were notified (optionally) that consent changed.
             print("Consent Changed")
         }
-        
+        analytics.add(plugin: consentManager)
         // Optionally add the IDFAConsent plugin if ATT is to be used.
         // It will capture ATT changes and notify the consent manager.
         // You'll need to copy this code into YOUR codebase and modify it
